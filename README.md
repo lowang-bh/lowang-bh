@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @lowang-bh
+- 🌱 I’m currently focus on workloads scheduling in multi-clusters ...
+  
+<!--
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+-->
+
 <!--
 **lowang-bh/lowang-bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Michaels-1990's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowang-bh&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Michaels-1990's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowang-bh&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowang-bh&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
