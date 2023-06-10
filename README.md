@@ -73,6 +73,18 @@ donut-vertical: pie graph at top
 <a href="https://github.com/lowang-bh/koordinator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=koordinator&theme=buefy" />
 </a>
+<a href="https://github.com/lowang-bh/training-operator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=training-operator&theme=buefy&show_owner=true" />
+</a>
+<a href="https://github.com/lowang-bh/kserve">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=kserve&theme=buefy" />
+</a>
+<a href="https://github.com/lowang-bh/karmada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=karmada&theme=buefy" />
+</a>
+<a href="https://github.com/lowang-bh/ray">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=ray&theme=buefy" />
+</a>
 
 <br />
 <br />
