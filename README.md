@@ -68,13 +68,13 @@ donut-vertical: pie graph at top
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=kubernetes&theme=buefy" />
 </a>
 <a href="https://github.com/lowang-bh/dev_virt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=dev_virt&theme=buefy&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=dev_virt&theme=buefy&show_owner=false" />
 </a>
 <a href="https://github.com/lowang-bh/koordinator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=koordinator&theme=buefy" />
 </a>
 <a href="https://github.com/lowang-bh/training-operator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=training-operator&theme=buefy&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=training-operator&theme=buefy&show_owner=false" />
 </a>
 <a href="https://github.com/lowang-bh/kserve">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=kserve&theme=buefy" />
