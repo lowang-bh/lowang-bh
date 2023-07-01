@@ -56,8 +56,16 @@ donut-vertical: pie graph at top
 <code><img height="20" alt="py" src="./images/pytorch-original.svg"></code>
 <code><img height="20" alt="tf" src="./images/tensorflow-original.svg"></code>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lowang-bh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="lowang-bh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowang-bh&layout=donut&theme=buefy&hide_border=true&card_width=300&hide=[Jupyter%20Notebook]" /></a> |
-| ------------- | ------------- |
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lowang-bh&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lowang-bh&theme=github&exclude=Jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lowang-bh&theme=github&exclude=Jupyter%20Notebook)
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lowang-bh&theme=github&utcOffset=8)
+-->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lowang-bh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="lowang-bh's github stats" /></a> |
+| ------------- |
+
 
 #### Top Repositories
 
