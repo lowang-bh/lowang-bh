@@ -99,7 +99,7 @@ donut-vertical: pie graph at top
 <a href="https://github.com/lowang-bh/koordinator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=koordinator&theme=buefy" />
 </a>
-<a href="https://github.com/lowang-bh/ray">
+<a href="https://github.com/lowang-bh/kuberay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lowang-bh&repo=ray&theme=buefy" />
 </a>
 
