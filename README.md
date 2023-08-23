@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @lowang-bh
+- 🔭 I graduated with a Master's degree in Mathematics from BeiHang University in 2014.
+- 😄 I began my career as a software engineer in Huawei.
+- 🤔 I started to learn kubernetes since 2018, and then continue working on PASS development
 - 🌱 I’m currently focus on workloads scheduling in multi-clusters ...
   
 <!--
