@@ -1,7 +1,7 @@
 ### Hi Friends 👋
 
 - 👋 Hi, I’m @lowang-bh
-- 🔭 I graduated with a Master's degree in Mathematics from BeiHang University in 2014.
+- 🔭 I graduated with a Master's degree in Mathematics from BUAA.
 - 😄 I began my career as a software engineer in Huawei.
 - 🤔 I started to learn kubernetes since 2018, and then continue working on PASS development
 - 🌱 I’m currently focus on workloads scheduling in multi-clusters ...
@@ -88,6 +88,7 @@ donut-vertical: pie graph at top
 |kubernetes-sigs |[gluster-file-external-provisioner](https://github.com/kubernetes-sigs/gluster-file-external-provisioner)|<https://github.com/kubernetes-sigs/gluster-file-external-provisioner/pulls/lowang-bh>|
 |       |[descheduler](https://github.com/kubernetes-sigs/descheduler)|<https://github.com/kubernetes-sigs/descheduler/pulls/lowang-bh>|
 |       |[kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)|<https://github.com/kubernetes-sigs/kubebuilder/pulls/lowang-bh>|
+|       |[kueue](https://github.com/kubernetes-sigs/kueue)|<https://github.com/kubernetes-sigs/kueue/pulls/lowang-bh>|
 |codeflare|[multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher)|<https://github.com/project-codeflare/multi-cluster-app-dispatcher/pulls/lowang-bh>|
 |swaggo   |[swag](https://github.com/swaggo/swag)|<https://github.com/swaggo/swag/pulls/lowang-bh>|
 |zeromicro|[go-zero](https://github.com/zeromicro/go-zero)|<https://github.com/zeromicro/go-zero/pulls/lowang-bh>|
