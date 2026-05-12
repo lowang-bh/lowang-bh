@@ -5,6 +5,7 @@
 - 😄 I began my career as a software engineer in Huawei.
 - 🤔 I started to learn kubernetes since 2018, and then continue working on PASS development
 - 🌱 I’m currently focus on workloads scheduling in multi-clusters ...
+- Note: 公司招聘实习生，要云原生调度方向，有volcano等K8S相关经验最优，感兴趣发送简历到邮箱
   
 <!--
 - 💞️ I’m looking to collaborate on ...
